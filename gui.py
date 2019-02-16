@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import *
-
 def hello(t):
 
     for i in range(3):
